@@ -1,0 +1,1 @@
+<?php /**PATH /home/Maksim/web/trifonov-m4.сделай.site/public_html/resources/views/admin.blade.php ENDPATH**/ ?>
